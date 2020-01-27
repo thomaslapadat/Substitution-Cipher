@@ -2,5 +2,5 @@
 Basic implementation of a substitution cipher in python
 
 ## Usage:
-python sandbox.py encrypt <keyword> <phrase>
-python sandbox.py decrypt <keyword> <phrase>
+<pre><code>python sandbox.py encrypt &lt;keyword> &lt;phrase>
+python sandbox.py decrypt &lt;keyword> &lt;phrase></code></pre>
